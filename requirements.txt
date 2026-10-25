@@ -1,4 +1,7 @@
 fastapi
 uvicorn
 pandas
+numpy
 requests
+fear-and-greed-crypto
+groq
